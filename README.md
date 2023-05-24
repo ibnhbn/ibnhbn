@@ -3,3 +3,5 @@
 
 ## Let's connect!
 [![My Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/makorikara)
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
